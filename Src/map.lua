@@ -50,7 +50,7 @@ function M.AddBorders(Input)
 
     end
 
-    -- Veritical borders
+    -- Vertical borders
     for i = 1, #Map do
 
 	Map[i][1]       = '#'
